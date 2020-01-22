@@ -450,4 +450,8 @@
     <!-- Worldview-->
     <string name="now_viewing_worldview">Now viewing the "%1$s" world view</string>
 
+    <!-- Static image API notification-->
+    <string name="static_image_api_notification_title">Static Image Notification</string>
+    <string name="static_image_api_notification_description">%1$s wifi locations within %2$d feet of the device</string>
+
 </resources>
